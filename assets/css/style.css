@@ -189,10 +189,12 @@ body {
   color: #fff;
   padding-top: 3px;
   padding-left: 15px; 
+  padding-right: 15px; 
 }
 
 .custom-map {
   padding-left: 20px;
+  padding-right: 20px;
 }
 
 .custom-icon-box {
