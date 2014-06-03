@@ -60,7 +60,7 @@ body {
   height: 100%;
   padding: 0;
   margin: 0;
-  max-width: 600px;
+  /*max-width: 600px;*/
   width: 100%;
   margin-left: auto;
   margin-right: auto;
@@ -72,7 +72,7 @@ body {
   background: #fff;*/
   width: auto;
   margin: 15px;
-  width: 570px;
+  /*width: 570px;*/
 }
 
 .role {
@@ -234,7 +234,7 @@ body {
 .photo-container {
   padding: 0;
   margin: 0;
-  max-width: 600px;
+  /*max-width: 600px;*/
   width: 100%;
   margin-left: auto;
   margin-right: auto;
