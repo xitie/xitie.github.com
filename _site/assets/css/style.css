@@ -97,7 +97,6 @@ body {
   display: inline-block;
   position: absolute;
   right: 15px;
-  top: 15px;
   width: 25px;
   height: 25px;
 }
@@ -149,13 +148,8 @@ body {
 }
 
 .wei-images {
-  float: left;
-  left: 140px;
-}
-
-.wei-videos {
-  float: right;
-  right: 120px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .button-link {
@@ -188,33 +182,27 @@ body {
 
 .icon-box {
   background: #FF0808;
-  height: 50px;
-  width: 60px;
-  margin: 0;
-  position: absolute;
-  right: 15px;
+  float: right;
 }
 
 .custom-list {
   color: #fff;
-  position: absolute;
-  right: 16px;
-  top: 5px;
+  padding-top: 3px;
+  padding-left: 15px; 
 }
 
-.custom-list-map {
-  color: #fff;
-  position: absolute;
-  right: 22px;
-  top: 5px;
+.custom-map {
+  padding-left: 20px;
+}
+
+.custom-icon-box {
+  padding-right: 0;
 }
 
 .list-text {
-  position: absolute;
-  top: 30px;
-  right: 6px;
   color: #fff;
   font-size: 0.1em;
+  padding: 0 5px;
 }
 
 .footer {
