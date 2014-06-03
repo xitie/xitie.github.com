@@ -1,11 +1,11 @@
 window.onload = function() {
 
-  //cover page
-  $('#cover').click(function() {
-    $('#cover').slideUp('slow');
-    $('#content').css('display','block');
-    $('.container').css('height','auto');
-  });
+  ////cover page
+  //$('#cover').click(function() {
+    //$('#cover').slideUp('slow');
+    //$('#content').css('display','block');
+    //$('.container').css('height','auto');
+  //});
   
   //background music
   $("#jquery_jplayer").jPlayer({
