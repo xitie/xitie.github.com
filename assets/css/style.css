@@ -116,10 +116,9 @@ body {
 }
 
 .dec-box {
-  height: 130px;
   margin-bottom: 10px;
-  overflow: hidden;
-  background: url("../img/main.png") 0 -71px repeat-x;
+  background-color: rgb(177, 0, 0);
+
 }
 
 .dec-title {
