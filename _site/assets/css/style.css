@@ -70,10 +70,8 @@ body {
 }
 
 .content-container {
-  padding: 15px;
-  background: #fff;*/
-  width: auto;
-  margin: 15px;
+  background: #fff;
+  max-width: 100%;
 }
 
 .role {
@@ -221,4 +219,8 @@ body {
   margin-left: auto;
   margin-right: auto;
   background: #f6f6f6;
+}
+
+.img-margin {
+  margin-left: 5px;
 }
